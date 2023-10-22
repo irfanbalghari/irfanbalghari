@@ -1,4 +1,5 @@
 ### Hi there 👋
+{{ template "hourly-table" $todayWeather.HourlyWeathers }}
 
 <!--
 **irfanbalghari/irfanbalghari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
