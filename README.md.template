@@ -1,0 +1,5 @@
+Irfan Balghari 
+
+{{ template "daily-table" .Weathers }}
+
+{{ formatTime .UpdatedAt }}
