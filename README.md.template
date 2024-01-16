@@ -1,4 +1,3 @@
 Irfan Balghari 
 
-{{ template "hourly-table" $todayWeather.HourlyWeathers }}
 
