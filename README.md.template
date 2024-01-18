@@ -1,3 +1,2 @@
-Irfan Balghari 
-
+{{ template "hourly-table" $.TodayWeather.HourlyWeathers }}
 
